@@ -1,6 +1,8 @@
 # CodeCapsule: Advanced System Backup and Restore Manager
 
-![CodeCapsule Logo]![image](https://github.com/user-attachments/assets/4a7a2f8e-5cd7-46c6-9526-f58dd0c51177)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4a7a2f8e-5cd7-46c6-9526-f58dd0c51177" alt="CodeCapsule Logo" width="200" height="100">
+</p>
 
 *Your ultimate backup and restore solution for robust data management.*
 

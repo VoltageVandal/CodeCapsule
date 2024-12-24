@@ -1,6 +1,7 @@
 # CodeCapsule: Advanced System Backup and Restore Manager
 
-![CodeCapsule Logo](https://via.placeholder.com/800x200?text=CodeCapsule)  
+![CodeCapsule Logo]![image](https://github.com/user-attachments/assets/4a7a2f8e-5cd7-46c6-9526-f58dd0c51177)
+
 *Your ultimate backup and restore solution for robust data management.*
 
 ---
@@ -40,3 +41,34 @@
    ```bash
    git clone https://github.com/YourUsername/CodeCapsule.git
    cd CodeCapsule
+# Sources and Further Reading
+
+---
+
+## Tools Used
+
+- [Rsync](https://rsync.samba.org/): A fast and versatile file copying tool.
+- [Tar](https://www.gnu.org/software/tar/): Archiving utility for creating compressed backups.
+- [Sha256sum](https://linux.die.net/man/1/sha256sum): Command for checksum validation.
+
+---
+
+## Backup and Restore Best Practices
+
+- [Linux Backup Strategies](https://www.linux.com/tutorials/linux-backup-strategies/)
+- [Incremental Backups Explained](https://en.wikipedia.org/wiki/Incremental_backup)
+
+---
+
+## Disaster Recovery
+
+- [Creating Bootable ISOs](https://wiki.archlinux.org/title/ISO_image)
+- [Recovery Tools for Linux](https://www.linuxjournal.com/content/rescue-linux)
+
+---
+
+## Additional Reading
+
+- [Automating Backups with Cron](https://opensource.com/article/18/7/automate-backups-linux-cron)
+- [GNU Tar Documentation](https://www.gnu.org/software/tar/manual/tar.html)
+

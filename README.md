@@ -41,7 +41,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/CodeCapsule.git
+   git clone https://github.com/VoltageVandal/CodeCapsule.git
    cd CodeCapsule
 # Sources and Further Reading
 
